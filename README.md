@@ -1,4 +1,4 @@
-# HashtagRecommendation
+# Recommendeur de hashtag pour image
 
 Permet de creer avec Tensorflow et Keras un recommandeur de hastag pour image, avec des algorithmes de deep learning.
 
