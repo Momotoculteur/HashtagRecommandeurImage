@@ -1,6 +1,6 @@
 # HashtagRecommendation
 
-Permet de creer avec Tensorflow et Keras un recommandeur de hastag en fonction d'image, avec des algorithmes de deep learning.
+Permet de creer avec Tensorflow et Keras un recommandeur de hastag pour image, avec des algorithmes de deep learning.
 
 ## Installer les pré-requis
 Je vous laisse installer vous même les libraires nécessaires, par conda ou pip selon vos préferences et environnements
