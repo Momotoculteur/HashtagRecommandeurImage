@@ -9,6 +9,7 @@ import pandas as pd
 from tqdm import tqdm
 from keras.optimizers import *
 from PIL import ImageFile
+# PERMET DE TRAITER LES IMAGES CORROMPUES
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 import json
 
