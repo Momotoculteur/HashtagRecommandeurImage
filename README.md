@@ -13,6 +13,7 @@ Je vous laisse installer vous même les libraires nécessaires, par conda pour p
 
 ## Customization des hyper paramètres
 Disponible dans le fichier trainModel.py :
+
 | Attribut | Description                    |
 | ------------- | ------------------------------ |
 | `CLASSE`      |  Lien vers le fichier contenant la liste totales des classes avec leurs indices respectifs  |
