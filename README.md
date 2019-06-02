@@ -10,6 +10,8 @@ Je vous laisse installer vous même les libraires nécessaires, par conda ou pip
 - TQDM
 - PIL
 
+Téléchargez le dataset HARRISON, le dézipper dans ./HARRISSON/.
+
 
 ## Customization des hyper paramètres
 Disponible dans le fichier trainModel.py :
@@ -32,4 +34,5 @@ Disponible dans le fichier trainModel.py :
 `$ python trainModel.py`
 
 ## Prédiction de nouvelles images
+Donnez les chemins d'accès à vos photos tests dans le fichier ./dataTest/imgTest.txt, puis lancez :
 `$ python autoPredic.py`
