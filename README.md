@@ -35,4 +35,5 @@ Disponible dans le fichier trainModel.py :
 
 ## Prédiction de nouvelles images
 Donnez les chemins d'accès à vos photos tests dans le fichier ./dataTest/imgTest.txt, puis lancez :
+
 `$ python autoPredic.py`
